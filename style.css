@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.card-image-top
+{
+    width: 50%;
+    height: 15vw;
+    object-fit: cover;
+}
